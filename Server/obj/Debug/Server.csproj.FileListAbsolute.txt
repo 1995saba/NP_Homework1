@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\bin\Debug\Server.exe.config
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\bin\Debug\Server.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\bin\Debug\Server.pdb
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\obj\Debug\Server.exe
+C:\Users\HP\Documents\Visual Studio 2017\Projects\NP_Homework1\Server\obj\Debug\Server.pdb
